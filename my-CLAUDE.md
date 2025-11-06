@@ -1,6 +1,11 @@
 # Global Python Coding Standards
 
-**File Management**: Delete temp files after use (create in `/tmp/` only). Never create docs just to summarize.
+## Working Philosophy
+
+1. **Focus on code and planning** - Spend 80% of effort on implementation and planning, not documentation
+2. **Ship fast** - Prioritize implementing key features over handling every edge case
+3. **Keep it simple** - Write concise, easy-to-understand code
+4. **Simple > optimal** - Choose clear, straightforward solutions over complex optimal ones
 
 **Communication**: ALWAYS ask the user questions to clarify anything that is unclear or when you need them to provide additional information.
 
